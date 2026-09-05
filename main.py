@@ -1,14 +1,3 @@
-"""
-Student Performance Analysis
------------------------------
-This program loads a dataset of 100 students, checks that the data is
-valid, calculates useful statistics (averages, rankings, categories),
-creates charts, and prints a summary of what was found.
-
-How to run:
-    python main.py
-"""
-
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
